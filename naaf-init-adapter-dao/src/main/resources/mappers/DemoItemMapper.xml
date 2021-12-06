@@ -1,0 +1,18 @@
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.feiniaojin.naaf.init.adapter.dao.mapper.DemoItemMapper">
+    <resultMap id="BaseResultMap" type="com.feiniaojin.naaf.init.entity.DemoItem">
+        <result column="id" property="id"/>
+
+    </resultMap>
+    <sql id="BaseColumn">
+        id
+    </sql>
+    <insert id="insert" parameterType="com.feiniaojin.naaf.init.entity.DemoItem">
+        insert into t_live_room (
+        id
+        )
+        values (
+        id
+        )
+    </insert>
+</mapper>

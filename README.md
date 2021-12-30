@@ -4,7 +4,7 @@
 
 <a href="https://github.com/feiniaojin/naaf-init/blob/main/LICENSE">![](https://img.shields.io/github/license/feiniaojin/naaf-init)</a> <a href="https://github.com/feiniaojin/naaf-init/issues"> ![](https://img.shields.io/github/issues/feiniaojin/naaf-init)</a>
 
-naaf的项目初始化archetype
+naaf-init是一个maven的archetype，用于naaf项目的初始化，安装完成之后可以直接在IDEA创建工程时选择。
 
 [![o7o000.png](https://s4.ax1x.com/2021/12/11/o7o000.png)](https://imgtu.com/i/o7o000)
 

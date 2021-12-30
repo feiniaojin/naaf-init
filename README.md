@@ -6,6 +6,8 @@
 
 naaf的项目初始化archetype
 
+[![o7o000.png](https://s4.ax1x.com/2021/12/11/o7o000.png)](https://imgtu.com/i/o7o000)
+
 # 快速入门
 
 ## 第一步

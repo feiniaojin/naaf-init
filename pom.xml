@@ -20,7 +20,7 @@
         <module>naaf-init-protocol-schedule</module>
         <module>naaf-init-protocol-rpc-provider</module>
         <module>naaf-init-protocol-mq-listener</module>
-        <module>naaf-init-biz-service</module>
+        <module>naaf-init-service</module>
         <module>naaf-init-adapter-dao</module>
         <module>naaf-init-adapter-http</module>
         <module>naaf-init-adapter-rpc-consumer</module>

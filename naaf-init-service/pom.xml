@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>naaf-init-biz-service</artifactId>
+    <artifactId>naaf-init-service</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

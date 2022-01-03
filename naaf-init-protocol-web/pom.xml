@@ -23,7 +23,7 @@
         </dependency>
         <dependency>
             <groupId>com.feiniaojin.naaf.init</groupId>
-            <artifactId>naaf-init-biz-service</artifactId>
+            <artifactId>naaf-init-service</artifactId>
         </dependency>
     </dependencies>
 </project>

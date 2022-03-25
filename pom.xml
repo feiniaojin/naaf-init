@@ -16,16 +16,17 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>naaf-init-app</module>
-        <module>naaf-init-protocol-web</module>
-        <module>naaf-init-protocol-schedule</module>
-        <module>naaf-init-protocol-rpc-provider</module>
-        <module>naaf-init-protocol-mq-listener</module>
+        <module>naaf-init-ohs-web</module>
+        <module>naaf-init-ohs-schedule</module>
+        <module>naaf-init-ohs-rpc-provider</module>
+        <module>naaf-init-ohs-mq-listener</module>
         <module>naaf-init-service</module>
         <module>naaf-init-adapter-dao</module>
         <module>naaf-init-adapter-http</module>
         <module>naaf-init-adapter-rpc-consumer</module>
         <module>naaf-init-adapter-mq-publisher</module>
         <module>naaf-init-domain</module>
+        <module>naaf-init-commons</module>
     </modules>
 
     <properties>
